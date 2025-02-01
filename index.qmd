@@ -1,5 +1,5 @@
 ---
-title: "Add a title"
+title: "welcome"
 ---
 
 This is a Quarto website.
